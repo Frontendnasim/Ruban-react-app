@@ -1,0 +1,9 @@
+.badge {
+    background-color: #EEEEEE;
+    width: 100%;
+    height: 150px;
+}
+
+.badge-item h6 {
+    margin: 15px 0;
+}

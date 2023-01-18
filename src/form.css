@@ -1,0 +1,16 @@
+.form p {
+    padding: 5px 10px;
+    border-radius: 8px;
+    border: 1px solid #F92A77;
+}
+
+.form {
+    direction: ltr;
+}
+
+.flex-cc {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
